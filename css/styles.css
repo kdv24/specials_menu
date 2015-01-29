@@ -1,0 +1,113 @@
+body {
+    background-color: tomato;
+}
+
+.page-header {
+	font-family: 'Merienda One', cursive;
+	color: tomato;
+	background-color: #602D07;
+	border-bottom: 1px solid #ADAB2D;
+	box-shadow: 0px -5px 5px #ADAB2D;
+}
+
+.page-header h1 {
+	font-size: 6rem;
+	text-shadow: #3c2016 2px 2px;
+}
+
+.page-header h3 {
+	padding-left: 5%;	
+}
+
+.nav {
+	float: right;
+	padding-bottom: 5%;
+}
+
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #ADAB2D;
+}
+
+.nav-pill a:hover {
+	color: black;
+	background-color: orange;
+}
+
+a {
+  color: #ADAB2D;
+  text-decoration: none;
+  background-color: #F4F3DB;
+}
+
+.letter {
+	padding-left: 20%;
+}
+
+#home_page img {
+	margin-top: 0%;
+	opacity: 90%;
+	max-width: 300px;
+	/* photo credit: http://ogourmet.net/blog/bebidas/dia-mundial-do-cafe/*/;
+}
+
+.contact-info {
+	font-family: 'Merienda One', cursive;
+	text-align: left;
+	font-size: 1rem;	
+	width: 100%;
+	float: right;
+	padding-top: 20%;
+	padding-right: 30%;
+	padding-bottom: 20px;
+}
+
+.our-story {
+	margin-top: 20px;
+	width: 100%;
+	font-family: cursive;
+	font-size: 1.5rem;
+	letter-spacing: 2px;
+}
+
+.our-story span {
+  	color: #ADAB2D;
+	font-size: 2.5rem;
+	float: right;
+	padding-top: 5%;
+	padding-right: 50%;
+	text-shadow: #602D07 1px 1px;
+}
+
+.thumbnail {
+	background-color: #F4F3DB;
+	height: 200px;
+}
+
+
+.caption h3 {
+	color: #602D07;
+	text-align: center;
+}
+
+.caption p {
+	font-style: italic;
+	color: #8D5604;
+	text-align: center;
+}
+
+.thumbnail .enjoy h1 {
+	font-family: 'Merienda One', cursive;
+	text-align: center;
+	font-size: 5rem;
+	padding: 15%;
+	color: tomato;
+	background-color: #602D07; 
+	border-top-left-radius: 70%;
+	border-bottom-right-radius: 70%;
+}
+
+
