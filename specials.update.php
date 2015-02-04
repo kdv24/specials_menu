@@ -8,7 +8,7 @@
     <div class="container">
         <h1>Enter items for weekly specials</h1>
 
-        <form action="specials_record.php">
+        <form action="specials.php">
           <div class="date">
             <div class="form-group">
                 <label for"date"><h3>Week of:</h3><br>Enter date</label>
